@@ -1,2 +1,2 @@
 # number-guessing-game
-A number guessing game from the Treehouse Techdegree Python Development Program
+A number guessing game I made for the Treehouse Techdegree Python Development Program
